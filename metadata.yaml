@@ -1,0 +1,38 @@
+_repo: The-Greater-Inclination_9190
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: The Greater Inclination was the earliest collection of short fiction
+  from Edith Wharton. It was published by Charles Scribner's Sons on the 25th of March,
+  1899. The first edition printing of 1,250 sold out by June of the same year. The
+  collection consisted of eight works, seven of which are short fiction, and one is
+  a short play in two acts. The Stories The Muse's Tragedy (Scribner's Magazine, January
+  1899) A Journey The Pelican Souls Belated A Coward The Twilight of the God A Cup
+  of Cold Water The Portrait-- Excerpted from Wikipedia, the free encyclopedia.
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The muse's tragedy -- A journey -- The pelican -- Souls belated --
+  A coward -- The twilight of the god -- A cup of cold water -- The portrait.
+title: The Greater Inclination
+url: http://www.gutenberg.org/ebooks/9190
