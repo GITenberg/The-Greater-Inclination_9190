@@ -1,5 +1,8 @@
 _repo: The-Greater-Inclination_9190
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -20,6 +23,8 @@ description: The Greater Inclination was the earliest collection of short fictio
   a short play in two acts. The Stories The Muse's Tragedy (Scribner's Magazine, January
   1899) A Journey The Pelican Souls Belated A Coward The Twilight of the God A Cup
   of Cold Water The Portrait-- Excerpted from Wikipedia, the free encyclopedia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9190#The-Greater-Inclination
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
